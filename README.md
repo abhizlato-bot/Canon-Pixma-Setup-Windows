@@ -96,4 +96,4 @@ If you are unsure which driver fits your system, the [canon com ijsetup](https:/
 
 Most Canon PIXMA setup issues on Windows are solved by using the full driver package and temporarily turning off the firewall during installation. Once the driver is installed, re‑enable your firewall – your printer will continue to work normally.
 
-For additional help with specific models or advanced network configurations, refer to the complete [ij start canon connect](https://printersolved.com/ij-start-canon-setup/) guide linked at the top of this page.
+For additional help with specific models or advanced network configurations, refer to the complete guide linked at the top of this page.
