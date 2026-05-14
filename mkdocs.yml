@@ -1,0 +1,7 @@
+site_name: Canon Printer Setup Guide
+site_description: Complete Canon printer setup guide for US and Canada users
+docs_dir: docs
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
